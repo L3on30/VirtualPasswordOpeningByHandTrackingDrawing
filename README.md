@@ -3,8 +3,9 @@
 ## Project for Logical Design
 We don't need a doorknob to open a door! In this project, I will simulate unlock door by hand gesture via the camera of the computer. This door is kind of smart door which we can interact with it. We can set up the password and open it by drawing on the screen of camera.
 
-## Video demonstration
-[Virtual Password Opening By Hand Tracking Drawing](https://www.youtube.com/watch?v=vXO0i1PkF2E)
+## Demonstration
+[Video - Virtual Password Opening By Hand Tracking Drawing](https://www.youtube.com/watch?v=vXO0i1PkF2E)
+[Capture](img.png)
 
 ## Getting Started
 
