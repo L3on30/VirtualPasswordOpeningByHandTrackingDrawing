@@ -7,8 +7,6 @@ We don't need a doorknob to open a door! In this project, I will simulate unlock
 [Video - Virtual Password Opening By Hand Tracking Drawing](https://www.youtube.com/watch?v=vXO0i1PkF2E)
 
 
-![Capture](img.png)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
